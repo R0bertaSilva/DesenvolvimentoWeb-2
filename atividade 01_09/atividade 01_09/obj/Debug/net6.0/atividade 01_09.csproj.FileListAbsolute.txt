@@ -1,0 +1,32 @@
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\atividade 01_09.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\atividade 01_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\atividade 01_09.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\atividade 01_09.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\atividade 01_09.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\atividade 01_09.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\atividade 01_09.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\bin\Debug\net6.0\appsettings.json
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\bin\Debug\net6.0\atividade 01_09.exe
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\bin\Debug\net6.0\atividade 01_09.deps.json
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\bin\Debug\net6.0\atividade 01_09.runtimeconfig.json
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\bin\Debug\net6.0\atividade 01_09.dll
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\bin\Debug\net6.0\atividade 01_09.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\staticwebassets\msbuild.atividade 01_09.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\staticwebassets\msbuild.build.atividade 01_09.props
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.atividade 01_09.props
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.atividade 01_09.props
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\scopedcss\bundle\atividade 01_09.styles.css
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\atividade 01_09.csproj.CopyComplete
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\atividade 01_09.dll
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\refint\atividade 01_09.dll
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\atividade 01_09.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\atividade 01_09.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Área de Trabalho\4º PERIODO H1\atividade 01_09\atividade 01_09\obj\Debug\net6.0\ref\atividade 01_09.dll
